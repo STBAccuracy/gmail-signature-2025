@@ -13,8 +13,4 @@ Based on skarif2/gmail-signature
 ## Team Signature
 ![image](https://user-images.githubusercontent.com/116930479/205211777-7b2f1244-8216-441d-864f-29c22b95e4d1.png)
 
-## Two Names Signature
-![image](https://user-images.githubusercontent.com/116930479/205211817-9e58c5cd-c218-4159-9f63-0e225dc0295e.png)
-
-
 ---
