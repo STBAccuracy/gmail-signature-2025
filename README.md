@@ -4,6 +4,9 @@ Based on skarif2/gmail-signature
 <br />
 <br />
 
+## Usage
+Open up your html file and paste into the signature area in gmail.
+
 ## Individual Signature
 ![image](https://user-images.githubusercontent.com/116930479/205211732-2d67cc7d-9a66-4826-8e57-b6c42bf8872e.png)
 
